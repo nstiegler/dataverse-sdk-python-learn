@@ -1,0 +1,15 @@
+# Core SDK
+PowerPlatform-Dataverse-Client
+
+# Authentication (Protocol Rule 1.1 & 1.2)
+azure-identity
+
+# Configuration (Protocol Rule 5.2)
+python-dotenv
+
+# Data Analysis (Gate 1, Lab 1.2)
+pandas
+openpyxl  # Required for pandas to write to Excel
+
+# HTTP Requests (Gate 3, Lab 3.3 - SDK workaround)
+requests

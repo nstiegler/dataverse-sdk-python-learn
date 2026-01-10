@@ -207,9 +207,3 @@ marimo/_lsp/
 __marimo__/
 
 
-# Project secrets - NEVER commit
-.env
-.env.*
-
-# Output files (generated data)
-outputs/
