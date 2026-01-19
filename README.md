@@ -61,7 +61,7 @@ Code in this repository adheres to the following standards:
 *Focus: Authentication, SQL, OData*
 
 - [x] Lab 1.1: Credential Validator
-- [ ] Lab 1.2: SQL Query Basics
+- [x] Lab 1.2: SQL Query Basics
 - [ ] Lab 1.3: OData Query Explorer
 - [ ] Capstone: The Analyst's View (Region Export)
 
