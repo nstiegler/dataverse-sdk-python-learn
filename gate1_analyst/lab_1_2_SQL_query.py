@@ -73,3 +73,15 @@ if test_connection(configs_client):
 else:
     print("Cannot proceed wihtout connection")
 
+
+
+
+
+print("################### test code ##########################")
+
+tables = client.list_tables()
+print(type(tables))        # What type is it?
+print(len(tables))         # How many items?
+print(tables[0])           # What does the first item look like?
+
+print("################### test code ##########################")
